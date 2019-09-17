@@ -1,6 +1,6 @@
 # samsara.DefaultApi
 
-All URIs are relative to *https://api.samsara.com/v1*
+All URIs are relative to *https://api.eu.samsara.com/v1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

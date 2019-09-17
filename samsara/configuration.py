@@ -45,7 +45,7 @@ class Configuration(object):
         Constructor
         """
         # Default Base url
-        self.host = "https://api.samsara.com/v1"
+        self.host = "https://api.eu.samsara.com/v1"
         # Default api client
         self.api_client = None
         # Temp file folder for downloading files
